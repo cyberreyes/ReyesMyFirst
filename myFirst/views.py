@@ -1,4 +1,3 @@
-from tkinter import Y
 from django.http import HttpResponse
 
 def Vision(request):
